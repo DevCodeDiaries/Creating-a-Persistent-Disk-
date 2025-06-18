@@ -20,9 +20,9 @@ Make sure to follow **Qwiklabs' Terms of Service** and **YouTube’s Community G
 ### 🚨 Copy and run the following commands in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/DevCode/Google-Cloud-Skills-Boost/master/Creating%20a%20Persistent%20Disk/devcode.sh
-sudo chmod +x devcode004.sh
-./devcode004.sh
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Creating%20a%20Persistent%20Disk/techcps004.sh
+sudo chmod +x techcps004.sh
+./techcps004.sh
 ```
 ## ✅ Congratulations! You’ve successfully completed the lab! 😄
 

@@ -23,3 +23,14 @@ Make sure to follow **Qwiklabs' Terms of Service** and **YouTube’s Community G
 curl -LO raw.githubusercontent.com/DevCode/Google-Cloud-Skills-Boost/master/Creating%20a%20Persistent%20Disk/devcode.sh
 sudo chmod +x devcode004.sh
 ./devcode004.sh
+```
+## ✅ Congratulations! You’ve successfully completed the lab! 😄
+
+## 📝 Credit
+© Credit: DM for credit or removal request (no copyright intended)
+© All rights and credits for the original content belong to Google Cloud and the Google Cloud Skills Boost platform 🙏
+
+### 🛠️ Brought to you by: DevCode Diaries 
+📚 Keep learning. Keep building. Keep growing.
+
+
